@@ -4,7 +4,6 @@
 Architected an end-to-end analytics pipeline for 10,000+ customer records to diagnose localized retention failures and product-market friction. 
 
 ![Executive Dashboard](Executive_Dashboard.png) 
-*(Note: Ensure your image file name matches the link here)*
 
 ## 🛠️ Tech Stack
 * **Exploratory Data Analysis:** Python (Pandas, Matplotlib)
@@ -13,7 +12,7 @@ Architected an end-to-end analytics pipeline for 10,000+ customer records to dia
 
 ## 🚀 Key Business Insights
 * **Regional Vulnerability:** Diagnosed a 37.5% localized churn rate in the German market, nearly double the baseline of adjacent European regions.
-* **Cross-Selling Catastrophe:** Exposed an 82–100% attrition risk tied to cross-selling friction, proving that customers holding 3+ bank products are highly likely to abandon the bank.
+* **Cross-Selling Catastrophe:** Exposed an 82–100% attrition risk tied to cross-selling friction, proving that customers holding 3 or more bank products are highly likely to abandon the bank.
 * **Demographic Wealth Drain:** Tracked high-risk attrition among older, higher-net-worth demographics, identifying a critical threat to long-term portfolio stability.
 
 ## 📂 Repository Structure
